@@ -1,0 +1,4 @@
+项目部署：
+1、安装 python-2.7.12.msi
+2、运行 cmd 输入 pip install cocos2d 
+3、解压GLUTON.rar，运行 Helloworld.py 
